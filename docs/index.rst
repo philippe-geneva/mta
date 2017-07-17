@@ -1,3 +1,7 @@
+.. contents:: Table of Contents
+   .backlinks: entry
+
+
 Draft R&D Blueprint MTA tool text
 =================================
 
